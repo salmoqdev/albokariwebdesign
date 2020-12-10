@@ -213,7 +213,7 @@ section:not(.hero) {
     position: absolute;
     box-sizing: border-box;
     width: 280px;
-    right: -300px;
+/*     right: -300px; */
     top: 0;
     margin: -20px;
     padding: 75px 50px 50px;
