@@ -212,7 +212,7 @@ section:not(.hero) {
   .menu {
     position: absolute;
     box-sizing: border-box;
-    width: 280px;
+    width: 250px;
     right: -250px;
     top: 0;
     margin: -20px;
